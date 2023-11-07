@@ -33,6 +33,6 @@ O Controle de Estoque Petus é um sistema WEB, desenvolvido por mim: Túlio Vasc
 
 ## Copyright
 
-Copyright 2021 código fonte desenvolvido e divulgado por Túlio Vasconcelos.
+Copyright 2023.
 "# projeto_tcc" 
 "# sistema-web-controle-de-estoque" 
